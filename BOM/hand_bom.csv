@@ -1,0 +1,6 @@
+Designator,Qty,Value,Manufacturer,MPN,Mouser No,LCSC No,Description
+CASE_HAMMOND_1590BBK1,1,,Hammond Manufacturing,1590BBK,546-1590B-BK,,"Diecast aluminium enclosure, black, 111.99 x 60.5 x 31 mm"
+"J1,J2",2,Conn_SMA,Wurth Elektronik,60312002114503,710-60312002114503,C6823889,WR-SMA PCB THT jack straight 50 Ohm
+"J3,J4,J5,J6,J7,J8",6,BANANA_CONN,Keystone Electronics,575-8,534-575-8,C4994335,"Banana jack, solder/staking mount, non-insulated, 0.350in"
+"L1,L2,L3,L4,L5,L7,L8,L9,L10,L11",10,1.1uH,Wurth Elektronik,744314110,710-744314110,,WE-HCI power inductor 1.1uH 15A DCR 3.15mOhm AEC-Q200
+"L6,L12",2,1mH,MYX,MWI1008PS102MST-HF,,C48946652,Shielded inductor 1mH 20% 110mA 29 Ohm 1008 (alt. Coilcraft 1008PS-105KLC)

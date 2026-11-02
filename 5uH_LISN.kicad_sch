@@ -6234,7 +6234,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 909 Ohm 0.1% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 909 Ohm 0.1% 130mW 0805 thin film"
 			(at 150.876 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6245,7 +6245,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "RESI"
 			(at 150.876 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6256,7 +6256,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6B9090V"
+		(property "manf#" "PTFR0805B909RP9"
 			(at 150.876 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6267,7 +6267,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6B9090V"
+		(property "Mouser code" ""
+			(at 150.876 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2849379"
 			(at 150.876 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6348,7 +6359,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 825 Ohm 0.1% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 825 Ohm 1% 250mW 0805 thick film"
 			(at 158.496 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6359,7 +6370,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "KOA Speer"
 			(at 158.496 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6370,7 +6381,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6B8250V"
+		(property "manf#" "RK73H2ATTD8250F"
 			(at 158.496 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6381,7 +6392,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6B8250V"
+		(property "Mouser code" ""
+			(at 158.496 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6182695"
 			(at 158.496 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6462,7 +6484,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 12.1 Ohm 0.1% 0.4W 1206 thin film anti-sulfur AEC-Q200"
+		(property "Description" "RES 12.1 Ohm 0.1% 250mW 1206 thin film"
 			(at 168.656 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6473,7 +6495,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
+		(property "Manufacturer" "YAGEO"
 			(at 168.656 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6484,7 +6506,7 @@
 				)
 			)
 		)
-		(property "manf#" "RQ73C2B12R1BTD"
+		(property "manf#" "RT1206BRD0712R1L"
 			(at 168.656 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6495,7 +6517,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "279-RQ73C2B12R1BTD"
+		(property "Mouser code" ""
+			(at 168.656 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C870402"
 			(at 168.656 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6576,7 +6609,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 243 Ohm 0.1% 125mW 0805 thin film - NOTE: ~0.17W at 1W input; 0.25W alt ERJ-PB6B2430V"
+		(property "Description" "RES 243 Ohm 0.1% 125mW 0805 thin film - NOTE: ~0.17W at 1W input"
 			(at 178.816 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6690,7 +6723,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 274 Ohm 0.1% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 274 Ohm 0.1% 125mW 0805 thin film - NOTE: ~0.15W at 1W input"
 			(at 186.436 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6701,7 +6734,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "YAGEO"
 			(at 186.436 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6712,7 +6745,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6B2740V"
+		(property "manf#" "RT0805BRD07274RL"
 			(at 186.436 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6723,7 +6756,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6B2740V"
+		(property "Mouser code" ""
+			(at 186.436 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C865345"
 			(at 186.436 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6804,7 +6848,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 30.1 Ohm 1% 0.25W 1206 thick film AEC-Q200"
+		(property "Description" "RES 30.1 Ohm 1% 500mW 1206 thick film"
 			(at 214.376 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6815,7 +6859,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 214.376 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6826,7 +6870,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-8ENF30R1V"
+		(property "manf#" "HP06W2F301JT5E"
 			(at 214.376 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6837,7 +6881,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-8ENF30R1V"
+		(property "Mouser code" ""
+			(at 214.376 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2774910"
 			(at 214.376 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7543,7 +7598,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 18.2 Ohm 1% 0.25W 1206 thick film AEC-Q200"
+		(property "Description" "RES 18.2 Ohm 1% 250mW 1206 thick film"
 			(at 288.036 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7554,7 +7609,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "FOJAN"
 			(at 288.036 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7565,7 +7620,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-8ENF18R2V"
+		(property "manf#" "FRC1206F18R2TS"
 			(at 288.036 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7576,7 +7631,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-8ENF18R2V"
+		(property "Mouser code" ""
+			(at 288.036 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5126139"
 			(at 288.036 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7657,7 +7723,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 562 Ohm 1% 0.5W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 562 Ohm 1% 125mW 0805 thin film"
 			(at 298.196 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7668,7 +7734,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Viking Tech"
 			(at 298.196 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7679,7 +7745,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-P06F5620V"
+		(property "manf#" "ARG05FTC5620"
 			(at 298.196 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7690,7 +7756,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-P06F5620V"
+		(property "Mouser code" ""
+			(at 298.196 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C218625"
 			(at 298.196 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7771,7 +7848,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 619 Ohm 0.5% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 619 Ohm 1% 125mW 0805 thick film"
 			(at 305.816 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7782,7 +7859,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "YAGEO"
 			(at 305.816 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7793,7 +7870,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6D6190V"
+		(property "manf#" "RC0805FR-07619RL"
 			(at 305.816 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7804,7 +7881,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6D6190V"
+		(property "Mouser code" ""
+			(at 305.816 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C273913"
 			(at 305.816 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -9136,7 +9224,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TDK"
+		(property "Manufacturer" "Murata"
 			(at 302.006 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9147,7 +9235,7 @@
 				)
 			)
 		)
-		(property "manf#" "C3216X7R2E104K160AA"
+		(property "manf#" "GRM31CR72E104KW03L"
 			(at 302.006 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9158,7 +9246,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-C3216X7R2E104K"
+		(property "Mouser code" ""
+			(at 302.006 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C97956"
 			(at 302.006 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9569,7 +9668,7 @@
 				)
 			)
 		)
-		(property "manf#" "CGA6N3X7R2A225K230AB"
+		(property "manf#" "CGA6N3X7R2A225KT0Y0U"
 			(at 173.736 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9580,7 +9679,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-CGA6N3X7R2A225K"
+		(property "Mouser code" ""
+			(at 173.736 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342652"
 			(at 173.736 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9683,7 +9793,7 @@
 				)
 			)
 		)
-		(property "manf#" "CGA6N3X7R2A225K230AB"
+		(property "manf#" "CGA6N3X7R2A225KT0Y0U"
 			(at 181.356 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9694,7 +9804,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-CGA6N3X7R2A225K"
+		(property "Mouser code" ""
+			(at 181.356 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342652"
 			(at 181.356 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9775,7 +9896,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 0 Ohm jumper 1/2W 1206"
+		(property "Description" "RES 0 Ohm jumper 1206"
 			(at 173.736 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9786,7 +9907,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 173.736 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9797,7 +9918,7 @@
 				)
 			)
 		)
-		(property "manf#" "RC1206JR-7W0RL"
+		(property "manf#" "1206W4F0000T5E"
 			(at 173.736 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9808,7 +9929,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "603-RC1206JR-7W0RL"
+		(property "Mouser code" ""
+			(at 173.736 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17888"
 			(at 173.736 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9889,7 +10021,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 0 Ohm jumper 1/2W 1206"
+		(property "Description" "RES 0 Ohm jumper 1206"
 			(at 181.356 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9900,7 +10032,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 181.356 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9911,7 +10043,7 @@
 				)
 			)
 		)
-		(property "manf#" "RC1206JR-7W0RL"
+		(property "manf#" "1206W4F0000T5E"
 			(at 181.356 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9922,7 +10054,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "603-RC1206JR-7W0RL"
+		(property "Mouser code" ""
+			(at 181.356 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17888"
 			(at 181.356 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -10216,7 +10359,7 @@
 				)
 			)
 		)
-		(property "manf#" "CKG57NX7S2A226M500JH"
+		(property "manf#" "CKG57NX7S2A226MT0Y9W"
 			(at 152.146 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10227,7 +10370,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-CKG57NX7S2A226M"
+		(property "Mouser code" ""
+			(at 152.146 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C694539"
 			(at 152.146 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10308,7 +10462,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 1 Ohm 1% 1W 1218 wide terminal AEC-Q200"
+		(property "Description" "RES 1 Ohm 1% 1W 1218 wide terminal (alt. LCSC C175575 0.5W 5%)"
 			(at 152.146 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10319,7 +10473,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KOA Speer"
+		(property "Manufacturer" "Vishay"
 			(at 152.146 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10330,7 +10484,7 @@
 				)
 			)
 		)
-		(property "manf#" "WK73S2JTTE1R00F"
+		(property "manf#" "RCL12181R00FKEK"
 			(at 152.146 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10341,7 +10495,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "660-WK73S2JTTE1R00F"
+		(property "Mouser code" ""
+			(at 152.146 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2075765"
 			(at 152.146 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -11883,7 +12048,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 909 Ohm 0.1% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 909 Ohm 0.1% 130mW 0805 thin film"
 			(at 150.876 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -11894,7 +12059,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "RESI"
 			(at 150.876 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -11905,7 +12070,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6B9090V"
+		(property "manf#" "PTFR0805B909RP9"
 			(at 150.876 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -11916,7 +12081,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6B9090V"
+		(property "Mouser code" ""
+			(at 150.876 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2849379"
 			(at 150.876 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -11997,7 +12173,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 825 Ohm 0.1% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 825 Ohm 1% 250mW 0805 thick film"
 			(at 158.496 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12008,7 +12184,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "KOA Speer"
 			(at 158.496 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12019,7 +12195,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6B8250V"
+		(property "manf#" "RK73H2ATTD8250F"
 			(at 158.496 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12030,7 +12206,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6B8250V"
+		(property "Mouser code" ""
+			(at 158.496 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6182695"
 			(at 158.496 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12111,7 +12298,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 12.1 Ohm 0.1% 0.4W 1206 thin film anti-sulfur AEC-Q200"
+		(property "Description" "RES 12.1 Ohm 0.1% 250mW 1206 thin film"
 			(at 168.656 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12122,7 +12309,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
+		(property "Manufacturer" "YAGEO"
 			(at 168.656 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12133,7 +12320,7 @@
 				)
 			)
 		)
-		(property "manf#" "RQ73C2B12R1BTD"
+		(property "manf#" "RT1206BRD0712R1L"
 			(at 168.656 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12144,7 +12331,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "279-RQ73C2B12R1BTD"
+		(property "Mouser code" ""
+			(at 168.656 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C870402"
 			(at 168.656 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12225,7 +12423,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 243 Ohm 0.1% 125mW 0805 thin film - NOTE: ~0.17W at 1W input; 0.25W alt ERJ-PB6B2430V"
+		(property "Description" "RES 243 Ohm 0.1% 125mW 0805 thin film - NOTE: ~0.17W at 1W input"
 			(at 178.816 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12339,7 +12537,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 274 Ohm 0.1% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 274 Ohm 0.1% 125mW 0805 thin film - NOTE: ~0.15W at 1W input"
 			(at 186.436 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12350,7 +12548,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "YAGEO"
 			(at 186.436 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12361,7 +12559,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6B2740V"
+		(property "manf#" "RT0805BRD07274RL"
 			(at 186.436 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12372,7 +12570,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6B2740V"
+		(property "Mouser code" ""
+			(at 186.436 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C865345"
 			(at 186.436 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -12453,7 +12662,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 30.1 Ohm 1% 0.25W 1206 thick film AEC-Q200"
+		(property "Description" "RES 30.1 Ohm 1% 500mW 1206 thick film"
 			(at 214.376 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12464,7 +12673,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 214.376 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12475,7 +12684,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-8ENF30R1V"
+		(property "manf#" "HP06W2F301JT5E"
 			(at 214.376 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12486,7 +12695,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-8ENF30R1V"
+		(property "Mouser code" ""
+			(at 214.376 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2774910"
 			(at 214.376 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13192,7 +13412,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 18.2 Ohm 1% 0.25W 1206 thick film AEC-Q200"
+		(property "Description" "RES 18.2 Ohm 1% 250mW 1206 thick film"
 			(at 288.036 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13203,7 +13423,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "FOJAN"
 			(at 288.036 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13214,7 +13434,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-8ENF18R2V"
+		(property "manf#" "FRC1206F18R2TS"
 			(at 288.036 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13225,7 +13445,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-8ENF18R2V"
+		(property "Mouser code" ""
+			(at 288.036 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5126139"
 			(at 288.036 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13306,7 +13537,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 562 Ohm 1% 0.5W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 562 Ohm 1% 125mW 0805 thin film"
 			(at 298.196 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13317,7 +13548,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Viking Tech"
 			(at 298.196 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13328,7 +13559,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-P06F5620V"
+		(property "manf#" "ARG05FTC5620"
 			(at 298.196 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13339,7 +13570,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-P06F5620V"
+		(property "Mouser code" ""
+			(at 298.196 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C218625"
 			(at 298.196 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13420,7 +13662,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 619 Ohm 0.5% 0.25W 0805 anti-surge AEC-Q200"
+		(property "Description" "RES 619 Ohm 1% 125mW 0805 thick film"
 			(at 305.816 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13431,7 +13673,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "YAGEO"
 			(at 305.816 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13442,7 +13684,7 @@
 				)
 			)
 		)
-		(property "manf#" "ERJ-PB6D6190V"
+		(property "manf#" "RC0805FR-07619RL"
 			(at 305.816 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -13453,7 +13695,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "667-ERJ-PB6D6190V"
+		(property "Mouser code" ""
+			(at 305.816 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C273913"
 			(at 305.816 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -14517,7 +14770,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TDK"
+		(property "Manufacturer" "Murata"
 			(at 302.006 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -14528,7 +14781,7 @@
 				)
 			)
 		)
-		(property "manf#" "C3216X7R2E104K160AA"
+		(property "manf#" "GRM31CR72E104KW03L"
 			(at 302.006 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -14539,7 +14792,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-C3216X7R2E104K"
+		(property "Mouser code" ""
+			(at 302.006 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C97956"
 			(at 302.006 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -14774,7 +15038,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 0 Ohm jumper 1/2W 1206"
+		(property "Description" "RES 0 Ohm jumper 1206"
 			(at 173.736 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14785,7 +15049,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 173.736 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14796,7 +15060,7 @@
 				)
 			)
 		)
-		(property "manf#" "RC1206JR-7W0RL"
+		(property "manf#" "1206W4F0000T5E"
 			(at 173.736 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14807,7 +15071,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "603-RC1206JR-7W0RL"
+		(property "Mouser code" ""
+			(at 173.736 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17888"
 			(at 173.736 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14888,7 +15163,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 0 Ohm jumper 1/2W 1206"
+		(property "Description" "RES 0 Ohm jumper 1206"
 			(at 181.356 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14899,7 +15174,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 181.356 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14910,7 +15185,7 @@
 				)
 			)
 		)
-		(property "manf#" "RC1206JR-7W0RL"
+		(property "manf#" "1206W4F0000T5E"
 			(at 181.356 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14921,7 +15196,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "603-RC1206JR-7W0RL"
+		(property "Mouser code" ""
+			(at 181.356 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17888"
 			(at 181.356 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -15002,7 +15288,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 1 Ohm 1% 1W 1218 wide terminal AEC-Q200"
+		(property "Description" "RES 1 Ohm 1% 1W 1218 wide terminal (alt. LCSC C175575 0.5W 5%)"
 			(at 152.146 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15013,7 +15299,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KOA Speer"
+		(property "Manufacturer" "Vishay"
 			(at 152.146 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15024,7 +15310,7 @@
 				)
 			)
 		)
-		(property "manf#" "WK73S2JTTE1R00F"
+		(property "manf#" "RCL12181R00FKEK"
 			(at 152.146 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15035,7 +15321,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "660-WK73S2JTTE1R00F"
+		(property "Mouser code" ""
+			(at 152.146 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2075765"
 			(at 152.146 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15215,7 +15512,7 @@
 				)
 			)
 		)
-		(property "manf#" "CKG57NX7S2A226M500JH"
+		(property "manf#" "CKG57NX7S2A226MT0Y9W"
 			(at 152.146 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -15226,7 +15523,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-CKG57NX7S2A226M"
+		(property "Mouser code" ""
+			(at 152.146 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C694539"
 			(at 152.146 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -15329,7 +15637,7 @@
 				)
 			)
 		)
-		(property "manf#" "CGA6N3X7R2A225K230AB"
+		(property "manf#" "CGA6N3X7R2A225KT0Y0U"
 			(at 181.356 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -15340,7 +15648,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-CGA6N3X7R2A225K"
+		(property "Mouser code" ""
+			(at 181.356 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342652"
 			(at 181.356 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -15443,7 +15762,7 @@
 				)
 			)
 		)
-		(property "manf#" "CGA6N3X7R2A225K230AB"
+		(property "manf#" "CGA6N3X7R2A225KT0Y0U"
 			(at 173.736 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -15454,7 +15773,18 @@
 				)
 			)
 		)
-		(property "Mouser code" "810-CGA6N3X7R2A225K"
+		(property "Mouser code" ""
+			(at 173.736 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342652"
 			(at 173.736 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -17038,7 +17368,7 @@
 				)
 			)
 		)
-		(property "Description" "Dual series switching diode 100V 215mA SOT-23 (Mouser code is onsemi BAV99LT1G equivalent; Nexperia via LCSC)"
+		(property "Description" "Dual series switching diode 100V 215mA SOT-23"
 			(at 198.12 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17082,7 +17412,7 @@
 				)
 			)
 		)
-		(property "Mouser code" "863-BAV99LT1G"
+		(property "Mouser code" ""
 			(at 198.12 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17241,7 +17571,7 @@
 				)
 			)
 		)
-		(property "Description" "Dual series switching diode 100V 215mA SOT-23 (Mouser code is onsemi BAV99LT1G equivalent; Nexperia via LCSC)"
+		(property "Description" "Dual series switching diode 100V 215mA SOT-23"
 			(at 198.12 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17285,7 +17615,7 @@
 				)
 			)
 		)
-		(property "Mouser code" "863-BAV99LT1G"
+		(property "Mouser code" ""
 			(at 198.12 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17367,7 +17697,7 @@
 				)
 			)
 		)
-		(property "Description" "Dual series switching diode 100V 215mA SOT-23 (Mouser code is onsemi BAV99LT1G equivalent; Nexperia via LCSC)"
+		(property "Description" "Dual series switching diode 100V 215mA SOT-23"
 			(at 133.35 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17411,7 +17741,7 @@
 				)
 			)
 		)
-		(property "Mouser code" "863-BAV99LT1G"
+		(property "Mouser code" ""
 			(at 133.35 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17493,7 +17823,7 @@
 				)
 			)
 		)
-		(property "Description" "Dual series switching diode 100V 215mA SOT-23 (Mouser code is onsemi BAV99LT1G equivalent; Nexperia via LCSC)"
+		(property "Description" "Dual series switching diode 100V 215mA SOT-23"
 			(at 132.08 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17537,7 +17867,7 @@
 				)
 			)
 		)
-		(property "Mouser code" "863-BAV99LT1G"
+		(property "Mouser code" ""
 			(at 132.08 213.36 0)
 			(hide yes)
 			(show_name no)
